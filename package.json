@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest --watch",
-    "test-once": "jest"
+    "test-once": "jest --coverage"
   },
   "author": "Israel Antezana R.",
   "license": "ISC",
